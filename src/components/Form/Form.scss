@@ -1,0 +1,28 @@
+form{
+    // border: solid red 1px;
+    display: flex;
+   
+    justify-content: center;
+    margin-top: .5rem;
+    input{
+        font-size: 1rem;
+        padding: 0 1rem;
+        border: none;
+        width: 70%;
+        max-width: 26rem;
+        height: 2.5rem;
+        border-radius: 10px 0 0 10px;
+        &::placeholder{
+            color: var(--darkGray);
+        }
+        &:focus,{
+           outline: none;
+        }
+    }
+    button{
+        border: none;
+        border-radius: 0 10px  10px 0;
+        height: 2.5rem;
+        
+    }
+}
