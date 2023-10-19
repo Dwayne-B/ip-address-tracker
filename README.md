@@ -12,8 +12,7 @@ See their own IP address on the map on the initial page load
 Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
-![mobile](https://i.ibb.co/DKXJsvX/news-mobile.png)
-![nav-open](https://i.ibb.co/ZLzd3mc/news-nav-open.png)
+![GIF](https://i.ibb.co/x25F0xs/Vite-React-TS-Google-Chrome-2023-10-19-16-18-53.gif)
 ### Links
 - Live Site URL:[HERE](https://rococo-khapse-a09639.netlify.app/)
 
