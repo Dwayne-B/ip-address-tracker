@@ -12,7 +12,7 @@ See their own IP address on the map on the initial page load
 Search for any IP addresses or domains and see the key information and location
 
 ### Screenshot
-![GIF](https://i.ibb.co/x25F0xs/Vite-React-TS-Google-Chrome-2023-10-19-16-18-53.gif)
+![GIF](https://github.com/Dwayne-B/ip-address-tracker/blob/main/Vite%20React%20TS%20-%20Google%20Chrome%202023-10-19%2016-18-53.gif?raw=true)
 ### Links
 - Live Site URL:[HERE](https://rococo-khapse-a09639.netlify.app/)
 
